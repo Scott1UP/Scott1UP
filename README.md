@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Scott1UP
-- 👀 I’m currently employed as a UX/UI Designer in Digital Health 
+- 👀 I’m currently employed as a UX/UI Designer at a startup in the digital health space
 - 🌱 I’m currently learning the fundamentals of Web Development through TOP
 - 💞️ I’m not currently looking to collaborate on any development work, but I am interested in designing for Open Source projects.
 
