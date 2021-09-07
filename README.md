@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Scott1UP
 - 👀 I’m currently employed as a UX/UI Designer at a startup in the digital health space
-- 🌱 I’m currently learning the fundamentals of Web Development through TOP
-- 💞️ I’m not currently looking to collaborate on any development work, but I am interested in designing for Open Source projects.
+- 🌱 I’m learning the fundamentals of Web Development through TOP
+- 💞️ I'm contributing design ideas to open source projects that interest me. 
 
 <!---
 Scott1UP/Scott1UP is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
